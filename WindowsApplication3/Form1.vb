@@ -13,6 +13,14 @@ Public Class Form1
 
         MsgBox(handleWrk.ToString)
 
+        MsgBox(handleWrk.ToString)
+
+        MsgBox(handleWrk.ToString)
+
+        MsgBox(handleWrk.ToString)
+
+        MsgBox(handleWrk.ToString)
+
         Dim lstWrk As New List(Of String)
         For Each readD In lstBytes
             lstWrk.Add(readD.ToString)
